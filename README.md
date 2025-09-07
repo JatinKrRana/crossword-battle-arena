@@ -53,8 +53,6 @@ The game blends the intellectual challenge of crosswords with the excitement of 
 
 ## 📸 Screenshots  
 
-*(Add your screenshots here after running the app)*  
-
 1. **Home Screen / Login**  
 <img width="2148" height="1304" alt="Screenshot 2025-08-26 033425" src="https://github.com/user-attachments/assets/0e5353fb-7e03-4a64-98d8-fff283555e71" />
 
